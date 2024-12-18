@@ -1,5 +1,3 @@
-[Source Document](https://dev.to/phprunner/generate-pdf-files-using-nodejs-and-pdfmake-2gie)
-
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -99,3 +97,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+***
+## Resources : 
+
+[Source Document](https://dev.to/phprunner/generate-pdf-files-using-nodejs-and-pdfmake-2gie)
+
+[Style Guide](https://pdfmake.github.io/docs/0.1/document-definition-object/tables/)
